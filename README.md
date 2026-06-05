@@ -332,6 +332,6 @@ If this project helped you, please give it a ⭐ on GitHub!
 
 ---
 
-**Built with ❤️ using NLP, ML, and AI**
+
 Status: Active Development
 Last Updated: June 2026
