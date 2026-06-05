@@ -273,7 +273,7 @@ This project is licensed under the **MIT License** – see the LICENSE file for 
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **spaCy** – Industrial-strength NLP
 - **scikit-learn** – Machine learning tools
@@ -282,6 +282,19 @@ This project is licensed under the **MIT License** – see the LICENSE file for 
 - **Streamlit** – Web app framework
 
 ---
+## Output Images
+<img width="1600" height="869" alt="PHOTO-2026-04-22-19-55-19" src="https://github.com/user-attachments/assets/53151728-65f0-4d63-9a84-72e9e07aebc3" />
+<img width="1600" height="747" alt="PHOTO-2026-04-22-19-55-19 (1)" src="https://github.com/user-attachments/assets/9d61bd58-fc9b-4894-9924-e2c0574ed2b3" />
+<img width="1600" height="782" alt="PHOTO-2026-04-22-19-55-19 (2)" src="https://github.com/user-attachments/assets/141d6e3b-0567-48d4-904f-a0462078733a" />
+<img width="1600" height="1022" alt="PHOTO-2026-04-22-19-55-19 (3)" src="https://github.com/user-attachments/assets/b8591fc3-59bd-410d-a339-dd975d30903e" />
+<img width="1160" height="742" alt="PHOTO-2026-04-22-19-55-18" src="https://github.com/user-attachments/assets/31cb95f6-7716-4ead-96c0-c2e30b28e413" />
+<img width="1600" height="842" alt="PHOTO-2026-04-22-19-55-19 (4)" src="https://github.com/user-attachments/assets/94b50cef-afaa-4795-84ee-024bfb77edb2" />
+<img width="1600" height="484" alt="PHOTO-2026-04-22-19-55-19 (5)" src="https://github.com/user-attachments/assets/1c925550-0916-47f8-9132-8450afcb6231" />
+<img width="1600" height="1017" alt="PHOTO-2026-04-22-19-55-19 (6)" src="https://github.com/user-attachments/assets/3956e00a-35fc-4af9-874d-5661fab0d570" />
+<img width="1600" height="990" alt="PHOTO-2026-04-22-19-55-19 (7)" src="https://github.com/user-attachments/assets/50ea83af-a191-41b3-b7ee-7df57a4af0c3" />
+
+
+
 
 ## 📧 Support & Contact
 
