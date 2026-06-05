@@ -287,7 +287,7 @@ This project is licensed under the **MIT License** – see the LICENSE file for 
 
 Have questions or found a bug? 
 - Open an [Issue](https://github.com/MS999-27/ai-resume-ml/issues)
-- Contact: (mailto:your-muditasongara@gmail.com)
+- Contact: (mailto:-muditasongara@gmail.com)
 
 ---
 
